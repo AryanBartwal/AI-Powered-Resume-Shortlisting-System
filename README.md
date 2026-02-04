@@ -493,5 +493,3 @@ Open source for educational purposes.
 **🎉 YOUR AI-POWERED RESUME SHORTLISTING SYSTEM IS COMPLETE!**
 
 Open http://localhost:3000 and start screening resumes with AI! 🚀
-#   A I - P o w e r e d - R e s u m e - S h o r t l i s t i n g - S y s t e m  
- 
